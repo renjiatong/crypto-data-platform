@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# PyCharm / IntelliJ
+.idea/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Data files
+data/raw/
