@@ -11,3 +11,5 @@ __pycache__/
 
 # Data files
 data/raw/
+
+clickhouse_data/*
